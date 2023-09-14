@@ -1,0 +1,348 @@
+.Heading {
+
+    /* UI Properties */
+    font: normal normal bold 60px/93px Montserrat;
+    letter-spacing: 0px;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.para {
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 1;
+}
+.card {
+    border: none;
+}
+
+.cardbottomtext {
+
+    text-align: left;
+    font: normal normal normal 18px/26px Montserrat;
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 0.8;
+}
+
+.card-title {
+    text-align: left;
+    font: normal normal bold 40px/53px Montserrat;
+    letter-spacing: 0px;
+    color: #272727;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.uxheader {
+    text-align: left;
+    font: normal normal bold 42px/82px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.designthiking {
+    font: normal normal bold 62px/82px Montserrat;
+    letter-spacing: 0px;
+    color: #CFB436;
+    opacity: 1;
+}
+
+
+
+
+
+.cardcolor {
+    background-color: #272727;
+}
+
+.rounded-corners-gradient-borders {
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 100%;
+    background: transparent linear-gradient(160deg, #80379D 0%, #7146A7 100%) 0% 0% no-repeat padding-box;
+    height: 70%;
+
+}
+
+.rounded-corners-gradient-borders2 {
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 100%;
+    background: transparent linear-gradient(97deg, #6C4AAA 0%, #5D5AB4 100%) 0% 0% no-repeat padding-box;
+    height: 70%;
+
+}
+
+.rounded-corners-gradient-borders3 {
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 100%;
+    background: transparent linear-gradient(100deg, #595EB6 0%, #486EC1 100%) 0% 0% no-repeat padding-box;
+    height: 70%;
+
+}
+
+.rounded-corners-gradient-borders4 {
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 100%;
+    background: transparent linear-gradient(93deg, #4473C4 0%, #3582CE 100%) 0% 0% no-repeat padding-box;
+    height: 70%;
+
+}
+
+.rounded-corners-gradient-borders5 {
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 100%;
+    background: transparent linear-gradient(90deg, #3186D0 0%, #2097DB 100%) 0% 0% no-repeat padding-box;
+    height: 70%;
+
+}
+
+.cardlabel {
+    font: normal normal normal 25px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card-title {
+    text-align: left;
+    font: normal normal bold 26px/73px Montserrat;
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 1;
+}
+
+.cardbottomtext2 {
+
+    font: normal normal normal 16px/1px Montserrat;
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 0.8;
+}
+
+.card-title2 {
+    text-align: left;
+    font: normal normal bold 38px/49px Montserrat;
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 1;
+}
+
+.button {
+    background: #7A217F 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: white;
+    border: none;
+}
+
+.testimonials {
+    font: normal normal bold 40px/27px Montserrat;
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 1;
+    /* margin-left: 37%; */
+    text-align: center;
+}
+
+.Lead {
+    font: normal normal 600 11px/1px Montserrat;
+    letter-spacing: -0.28px;
+    color: #838694;
+    opacity: 1;
+}
+
+.Leadname {
+    font: normal normal 600 14px/22px Montserrat;
+    letter-spacing: 0px;
+    color: #222222;
+    opacity: 1;
+}
+
+.card {
+    border: none !important;
+}
+
+.para {
+    font: normal normal 600 16px/21px Montserrat;
+    letter-spacing: 0px;
+    color: #838694;
+    opacity: 1;
+}
+
+.cardbackground {
+    background: #f7f7f9ff !important;
+    opacity: 1;
+}
+
+
+
+.pulse {
+    text-align: left;
+    font: normal normal 600 19px/22px Montserrat;
+    letter-spacing: 0px;
+    color: #222222;
+    opacity: 1;
+}
+
+.polygon {
+    width: 19px;
+    margin-top: 65px;
+    margin-left: 1vw;
+}
+
+.Group456 {
+    width: 87px;
+    height: 78px;
+    position: absolute;
+    margin-top: 6vh;
+    margin-left: 2.5vw;
+}
+
+.ellipse {
+    position: relative;
+    height: 160px;
+    width: 160px
+}
+
+.group1637 {
+    width: 60px;
+    height: 60px;
+}
+
+
+.star {
+    width: 20px;
+    height: 20px;
+}
+
+.icons {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    margin-left: 50px;
+    margin-top: 49px;
+}
+
+/* --------------- */
+
+.background {
+    top: 6126px;
+    left: 0px;
+    width: 100%;
+
+    opacity: 1;
+    background-image: url(../images/MaskGroup38@2x.png);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: cover;
+}
+
+.RFP {
+    text-align: left;
+    font: normal normal bold 38px/83px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.belowtext {
+    text-align: left;
+    font: normal normal normal 15px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.95;
+}
+
+.Contact {
+    border: none;
+    background: #CFB436;
+    opacity: 1;
+    height: 45px;
+    width: 120px;
+}
+
+.number {
+    text-align: left;
+    font: normal normal bold 18px/40px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.phone {
+    text-align: left;
+    font: normal normal normal 18px/31px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+
+.iconframe {
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    width: 50px;
+    height: 50px;
+}
+
+.icon2 {
+    width: 25px;
+    margin-top: 12px;
+    margin-left: 11px;
+}
+
+.belowtextheader {
+    text-align: left;
+    font: normal normal normal 16px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+
+.footer {
+    /* margin-top: 100px; */
+}
+
+.container {
+    /* margin: 100px; */
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: small;
+        width: 150vh !important;
+        margin: 0%;
+    }
+
+    .background {
+        font-size: small;
+        width: 150vh;
+        height: none;
+        padding-bottom: 100px !important;
+    }
+    .cardlabel{
+        text-align: left !important;
+        margin-left: 4vw !important;
+    }
+ 
+}
+
+.portfolioimg{
+    width: 54px;
+}
+.uxdesign{
+    font: normal normal medium 28px/53px Montserrat;
+letter-spacing: 0px;
+color: #272727;
+text-transform: capitalize;
+opacity: 1;
+}
+

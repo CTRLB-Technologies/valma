@@ -1,0 +1,535 @@
+    <?php
+    @include_once "header.php";
+    ?>
+    <link rel="stylesheet" href="css/Homepage.css">
+    <div class="langingimages">
+		<div class="col-5 " style="position: absolute;">
+            <p class="valmacreation ml-5 ">Valma Creations is the trusted partner of choice to many of the leading
+                brands</p>
+            <button class="btn ml-5 button1">Let’s Get Started<img src="./images/Path 11232.png" class="ml-1"> </button>
+            <!-- <div class="scrolldown ">
+                Scroll Down
+            </div> -->
+        </div>
+
+
+    </div>
+<div class="highfive ml-4 mt-4" style="color: black;">Services <img class="portfolioimg mt-2" src="images/Group421@2x.png"> </div>
+
+    <div class="secondcard">
+        <div class="row m-3">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <div class="worldclass">
+                    <p> World Class <span class="dititaltext">Digital</span>, Design and Development Services</p>
+
+                </div>
+                <p class="bottomtext">
+                    From end-to-end eLearning to 2D, 3D, and live action media development, we assist companies and
+                    their audiences in growing with visible results by providing the best in industry.
+                </p>
+
+
+                <div style="display: flex; " class="mt-2">
+                    <div>
+                        <img src="./images/noun-check-2860932-1@2x.png" class="righticon">
+                    </div>
+                    <div>
+                        Comprehensive UI/UX Assessment
+                    </div>
+                </div>
+                <div style="display: flex;" class="mt-2">
+                    <div>
+                        <img src="./images/noun-check-2860932-1@2x.png" class="righticon">
+                    </div>
+                    <div>
+                        Deep Contextual Research and 360° Planning
+                    </div>
+                </div>
+                <div style="display: flex;" class="mt-2">
+                    <div>
+                        <img src="./images/noun-check-2860932-1@2x.png" class="righticon">
+                    </div>
+                    <div>
+                        Wireframing & Prototyping
+                    </div>
+                </div>
+                <button class="knowbtn btn mt-3 pl-4 pr-4">Know More on Services <img src="./images/Path 11232.png"
+                        class="ml-1"></button>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <div class="row">
+
+
+                    <div class="col ">
+                        <div class="d-flex flex-column">
+
+
+                            <div class="card cards">
+                                <div class="ml-2">
+                                    <img src="./images/Group 873@2x.png" class="cardicon mt-3">
+                                    <div class="appdev">
+                                        App Dev.
+                                    </div>
+                                    <p class="youname">
+                                        You name, we have it. We mean the best solutions that can make your App
+                                        super-friendly,
+                                        humanized, communicative and ROI-oriented.
+                                    </p>
+                                    <div class="pb-3">
+                                        <a href="#" style="text-decoration: underline; color:#838694" class="pb-3">Read
+                                            More ></a>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="card cards mt-4">
+                                <div class="ml-2">
+                                    <img src="./images/Group 873@2x.png" class="cardicon mt-3">
+                                    <div class="appdev">
+                                        App Dev.
+                                    </div>
+                                    <p class="youname">
+                                        You name, we have it. We mean the best solutions that can make your App
+                                        super-friendly,
+                                        humanized, communicative and ROI-oriented.
+                                    </p>
+                                    <div class="pb-3">
+                                        <a href="#" style="text-decoration: underline; color:#838694" class="pb-3">Read
+                                            More ></a>
+
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                    <div class="col mt-5">
+
+                        <div class="d-flex flex-column">
+
+                            <div class="card cards ">
+                                <div class="d-flex m-3">
+                                    <div>
+                                        <img src="./images/Group 874@2x.png" class="cardicon mr-3">
+
+                                    </div>
+                                    <div>
+                                        <div class="appdev">Filmmaking</div>
+                                        <p class="youname">
+                                            Too much of anything is bad except if it’s the affection involved in our
+                                            work we are talking of!
+                                        </p>
+                                        <div class="pb-3">
+                                            <a href="#" style="text-decoration: underline; color:#838694"
+                                                class="pb-3">Read
+                                                More ></a>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+
+
+
+                            </div>
+
+
+
+                            <div class="card cards mt-3">
+                                <div class="d-flex m-3">
+                                    <div>
+                                        <img src="./images/Group 875@2x.png" class="cardicon mr-3">
+
+                                    </div>
+                                    <div>
+                                        <div class="appdev">Elearning</div>
+                                        <p class="youname">
+                                            An immersive learning experience has a direct impact on the learner’s mind
+                                            and produces excellent recall.
+                                        </p>
+                                        <div class="pb-3">
+                                            <a href="#" style="text-decoration: underline; color:#838694"
+                                                class="pb-3">Read
+                                                More ></a>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+
+
+
+                            </div>
+
+
+                            <div class="card cards mt-3">
+                                <div class="d-flex m-3">
+                                    <div>
+                                        <img src="./images/Group 876@2x.png" class="cardicon mr-3">
+
+                                    </div>
+                                    <div>
+                                        <div class="appdev">2D & 3D Animation</div>
+                                        <p class="youname">
+                                            An immersive learning experience has a direct impact on the learner’s mind
+                                            and produces excellent recall.
+                                        </p>
+                                        <div class="pb-3">
+                                            <a href="#" style="text-decoration: underline; color:#838694"
+                                                class="pb-3">Read
+                                                More ></a>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+
+                    <div>
+
+                    </div>
+
+
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+    <div class="thirdcard m-3">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-5">
+                <div class="cardimg ">
+                    image
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg">
+<div class="highfive ml-1 " style="color: black;">Portfolio <img class="portfolioimg mt-2" src="images/Group421@2x.png"> </div>
+
+                <div class="ourwork">
+                    Our Work
+                </div>
+                <p class="valmacreations mr-5">
+                    Valma Creations as a global creative design agency, has worked with and empowered lot of businesses
+                    with amazing design services.
+                <div class="valmacreations mt-4 mr-5">
+                    Valma Creations in business has yielded lot of client partnerships,
+                    each rewarding in its own way. Take a look at the highlights.
+                </div>
+
+                </p>
+
+                <div class="row">
+                    <div class="col">
+                        <div class="card cards">
+                            <div class="ml-2">
+                                <img src="./images/Group 129@2x.png" class="cardicon mt-3">
+                                <div class="appdev">
+                                    Project 1
+                                </div>
+                                <p class="youname">
+                                    Sed ut perspiciat unde omnis este natus error sit voluptatem accusantium doloremque
+                                </p>
+                                <div class="pb-3">
+                                    <a href="#" style="text-decoration: underline; color:#838694" class="pb-3">Read
+                                        More ></a>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card cards">
+                            <div class="ml-2">
+                                <img src="./images/Group 151@2x.png" class="cardicon mt-3">
+                                <div class="appdev">
+                                    Project 1
+                                </div>
+                                <p class="youname">
+                                    Sed ut perspiciat unde omnis este natus error sit voluptatem accusantium doloremque
+                                </p>
+                                <div class="pb-3">
+                                    <a href="#" style="text-decoration: underline; color:#838694" class="pb-3">Read
+                                        More ></a>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+
+        <div class=" row ">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mt-3">
+                <!-- Card -->
+                <div class="card imagecards">
+
+                        <!--Card image-->
+                        <div class="view overlay">
+                            <img class="card-img-top image" src="images/Mask Group 2-1@2x.png" alt="Card image cap">
+                            <a href="#!">
+                                <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+                    <div class="m-2">
+
+                        <!--Card content-->
+                        <div class="mt-1">
+                            <!--Title-->
+                            <h4 class="card-title">Case Study 1</h4>
+                            <!--Text-->
+                            <p class="cardbottomtext">e-learning attributes, creative production, branding expertise,
+                                and filmmaking. We are futuristic and formulating for tomorrow. Our clients comprehend
+                                our strategy, positivity, and</p>
+                            <button class=" viewcase ">
+                                View Case Study
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card -->
+            </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mt-3">
+                <!-- Card -->
+                <div class="card imagecards">
+
+                        <!--Card image-->
+                        <div class="view overlay">
+                            <img class="card-img-top image" src="images/Mask Group 2@2x.png" alt="Card image cap">
+                            <a href="#!">
+                                <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+                    <div class="m-2">
+
+                        <!--Card content-->
+                        <div class="mt-1">
+                            <!--Title-->
+                            <h4 class="card-title">Case Study 2</h4>
+                            <!--Text-->
+                            <p class="cardbottomtext">
+                                e-learning attributes, creative production, branding expertise, and filmmaking. We are
+                                futuristic and formulating for tomorrow. Our clients comprehend our strategy,
+                                positivity, and
+                            </p>
+                            <button class=" viewcase ">
+                                View Case Study
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card -->
+            </div>
+
+
+
+
+
+
+
+
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mt-3">
+                <!-- Card -->
+                <div class="card imagecards">
+
+                        <!--Card image-->
+                        <div class="view overlay">
+                            <img class="card-img-top image" src="images/Mask Group 2-2@2x.png" alt="Card image cap">
+                            <a href="#!">
+                                <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+                    <div class="m-2">
+
+                        <!--Card content-->
+                        <div class="mt-1">
+                            <!--Title-->
+                            <h4 class="card-title">Case Study 1</h4>
+                            <!--Text-->
+                            <p class="cardbottomtext">e-learning attributes, creative production, branding expertise,
+                                and filmmaking. We are futuristic and formulating for tomorrow. Our clients comprehend
+                                our strategy, positivity, and</p>
+                            <button class=" viewcase ">
+                                View Case Study
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card -->
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+    <div class="fourthcard">
+       
+    </div>
+
+    <div class="fifthcard pt-2 pb-5">
+        <div class="ml-5 mt-5">
+
+<span class="highfive">High Five <img class="portfolioimg mt-2" src="images/Group421@2x.png"> </span>
+
+        <div>
+
+        </div>
+        <span class="Clients ">
+            Clients
+        </span>
+        <div class="row mt-5">
+            <div class="col">
+<img src="./images/123-1@2x.png" class="w-75">
+            </div>
+            <div class="col">
+                <img src="./images/Group 372@2x.png" class="w-75">
+
+            </div>
+            <div class="col">
+                <img src="./images/123-1@2x.png" class="w-75">
+
+            </div>
+            <div class="col">
+                <img src="./images/Group 372@2x.png" class="w-75">
+
+            </div>
+            <div class="col">
+                <img src="./images/123-1@2x.png" class="w-75">
+
+            </div>
+
+        </div>
+    </div>
+
+
+    </div>
+
+
+    <div class="row m-5 ">
+        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-6 mt-5">
+            <div class="card  cardbackground h-100">
+                <div class="d-flex m-5">
+                    <div class="mr-3">
+                        <img src="images/Group 1637.png" class="group1637" alt="no image">
+                    </div>
+                    <div>
+
+                        <div class="pulse mb-3">Excellent Works
+                            <span class="ml-3">
+                                <img src="images/Polygon 6.png" class="star">
+                                <img src="images/Polygon 6.png" class="star">
+                                <img src="images/Polygon 6.png" class="star">
+                                <img src="images/Polygon 6.png" class="star">
+                                <img src="images/Polygon 6.png" class="star">
+                            </span>
+
+
+                        </div>
+
+                        <p class="para">
+                            with our competitive, robust, and dynamic solutions to facilitate the Prosperous
+                            learning of the future with our experienced
+                        </p>
+                        <div class="d-flex">
+                            <span>
+                                <img src="images/Path 11870@2x.png" style="width: 90%;margin-right: -80px;">
+
+                            </span>
+                            <div class="Leadname">- Sushma<br>
+                                <span class=" Lead">Scrum Master, Valma Creations</span>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+
+        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-6 mt-5">
+            <div class="card  cardbackground h-100">
+                <div class="d-flex m-5">
+                    <div class="mr-3">
+                        <img src="images/Group 1637.png" class="group1637" alt="no image">
+                    </div>
+                    <div>
+
+                        <div class="pulse mb-3">Excellent Works
+                            <span class="ml-3">
+                                <img src="images/Polygon 6.png" class="star">
+                                <img src="images/Polygon 6.png" class="star">
+                                <img src="images/Polygon 6.png" class="star">
+                                <img src="images/Polygon 6.png" class="star">
+                                <img src="images/Polygon 6.png" class="star">
+                            </span>
+
+
+                        </div>
+
+                        <p class="para">
+                            with our competitive, robust, and dynamic solutions to facilitate the Prosperous
+                            learning of the future with our experienced
+                        </p>
+                        <div class="d-flex">
+                            <span>
+                                <img src="images/Path 11870@2x.png"  style="width: 90%;margin-right: -80px;">
+
+                            </span>
+                            <div class="Leadname">- Sushma<br>
+                                <span class=" Lead">Scrum Master, Valma Creations</span>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+    </div>
+    <?php
+    @include_once "footer.php";
+    ?>

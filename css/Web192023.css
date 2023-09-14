@@ -1,0 +1,115 @@
+.imagetextheader{
+top: 298px;
+left: 98px;
+width: 704px;
+height: 176px;
+text-align: left;
+font: normal normal bold 68px/93px Montserrat;
+letter-spacing: 0px;
+color: #272727;
+opacity: 1;
+    
+}
+
+
+/* Reset some default styles and set the container to relative positioning */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.image-container {
+    position: relative;
+    width: 100%; /* Make the container responsive to its parent */
+    max-width: 100%; /* Ensure the image is responsive */
+}
+
+img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%; /* Position text in the vertical center */
+    left: 25%; /* Position text in the horizontal center */
+    transform: translate(-50%, -50%); /* Center the text precisely */
+    font: normal normal bold 55px/73px Montserrat;
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 1;
+}
+.text-overlay2{
+    position: absolute;
+    top: 477px;
+    left: 311px;
+    width: 290px;
+    height: 99px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 19px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 1;
+}
+
+/* Media query for responsiveness */
+@media screen and (max-width: 768px) {
+    .text-overlay {
+        font-size: 14px; /* Adjust font size for smaller screens */
+    }
+}
+
+.bussinessheader{
+width: 538px;
+height: 108px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 36px/53px Montserrat;
+letter-spacing: 0px;
+color: #272727;
+opacity: 1;
+}
+.subtext{
+    text-align: left;
+    font: normal normal normal 12px/25px Montserrat;
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 0.7;
+}
+
+.image {
+    top: 584px;
+    left: 94px;
+    width: 180px;
+    height: 165px;
+    border: 1px solid #B7B7B7;
+    opacity: 1;
+}
+.card {
+    border: none;
+}
+img{
+    border: none;
+}
+.testmonial{
+    top: 2287px;
+
+height: 689px;
+/* UI Properties */
+background: #272727 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.img{
+    background-image: url(../images/video@2x.png);
+    background-size: cover;
+    height:calc(90vh);
+
+      /* Not repeat images */
+      background-repeat: no-repeat;
+
+      /* Set background size auto */
+      background-size:  contain;
+  }
+

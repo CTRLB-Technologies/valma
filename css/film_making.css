@@ -1,0 +1,313 @@
+.title {
+    font-size: 18px;
+    opacity: 1px;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+}
+
+.down_arrow {
+    width: 57px;
+    height: 13px;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+
+.heading {
+    margin-top: 56px;
+}
+
+.heading_text_one {
+    letter-spacing: 0px;
+    text-transform: capitalize;
+    opacity: 1;
+    font-size: 68px;
+    font-weight: bold;
+}
+
+.heading_text_two {
+    color: #7A217F;
+    letter-spacing: 0px;
+    text-transform: capitalize;
+    opacity: 1;
+    font-size: 68px;
+    font-weight: bold;
+}
+
+.text_two {
+    margin-top: 54px;
+    display: flex;
+    flex-direction: row;
+}
+
+.text_description {
+    font-size: 19px;
+    color: #272727;
+    opacity: 1;
+    width: 597px;
+    height: 275px;
+    line-height: 34px;
+    text-align: left;
+    margin-right: 37px;
+}
+
+.text_two_image {
+    background-color: #E2E2E2;
+    height: 488px;
+    width: 633px;
+}
+
+.video {
+    height: 860px;
+    background-color: #E2E2E2;
+    width: 100%;
+    margin-top: 56px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    margin-top: 99px;
+    justify-content: space-around;
+}
+
+.card_one {
+    width: 399px;
+}
+
+.icon_one {
+    width: 87px;
+    height: 77px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 32px;
+}
+
+.card_text {
+    font-size: 40px;
+    color: #272727;
+    font-weight: bold;
+    opacity: 1px;
+    margin-top: 32px;
+    text-transform: capitalize;
+}
+
+.card_description {
+    color: #272727;
+    opacity: 1;
+    font-size: 18px;
+    margin-top: 30px;
+    line-height: 26px;
+}
+
+.card_two {
+    width: 361px;
+}
+
+.film_making_approach {
+    background-color: #272727;
+    margin-top: 97px;
+    height: 700px;
+    padding-top: 72px;
+}
+
+.film_title {
+    color: #CFB436;
+    font-size: 62px;
+    margin-top: 72px;
+    margin-left: 98px;
+    font-weight: bold;
+}
+
+.film_description_two {
+    width: 361px;
+}
+
+.circular_progressbar_card {
+    margin-left: 60px;
+}
+
+.progress-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 215px;
+    height: 215px;
+    margin-top: 69px;
+    border-radius: 50%;
+    background:
+        radial-gradient(closest-side, #272727 79%, transparent 80% 100%),
+        conic-gradient(#80379D 100%, #7146A7 0);
+}
+
+.film_making_progress {
+    display: flex;
+    flex-direction: row;
+}
+
+.film_title_two {
+    color: white;
+    font-size: 35px;
+    margin-top: 27px;
+}
+
+.film_description_two {
+    color: white;
+    font-size: 22px;
+    margin-top: 27px;
+}
+
+.cards_two {
+    margin-top: 82px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cards_two_details {
+    display: flex;
+    flex-direction: column;
+}
+
+.project {
+    width: 229px;
+    height: 205px;
+    /* border: #CFB436 1px solid; */
+}
+
+.cards_two_details_title {
+    font-size: 22px;
+    color: #272727;
+    margin-top: 13px;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+.cards_two_details_description {
+    font-size: 16px;
+    color: #272727;
+    margin-top: 6px;
+}
+
+.cards_two_details_two {
+    width: 325px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cards_two_details_title_two {
+    font-size: 48px;
+    color: #272727;
+    font-weight: bold;
+}
+
+.Portfoliobutton {
+    background-color: #7A217F;
+    color: white;
+    font-size: 16px;
+    width: 141px;
+    height: 55px;
+    border: 0px;
+    margin-top: 31px;
+}
+
+.Testimonials {
+    text-align: center;
+    margin-top: 82px;
+}
+
+.Testimonials span {
+    color: #272727;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.review_cards {
+    margin-top: 67px;
+    display: flex;
+    flex-direction: row;
+}
+
+.review_cards_one {
+    background-color: #F7F7F9;
+    width: 633px;
+    height: 300px;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.review_img {
+    width: 84px;
+    height: 84px;
+    background-color: #838694;
+    border: 2px solid #FFFFFF;
+    opacity: 1;
+    border-radius: 50%;
+    margin-left: 27px;
+    margin-top: 57px;
+}
+
+.review_text{
+    margin-top: 57px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+}
+
+.review_text_title{
+    color: #222222;
+    font-size: 19px;
+    font-weight: 600;
+    opacity: 1;
+    margin-top: 9px;
+}
+
+.review_text_description{
+    color: #838694;
+    font-size: 16px;
+    font-weight: 600;
+    opacity: 1px;
+    margin-top: 31px;
+    width: 481px;
+    text-align: left;
+}
+
+.star_one{
+    margin-left: 62px;
+}
+
+.star{
+    opacity: 1;
+    width: 18px;
+    height: 16px;
+}
+
+.comment{
+    display: flex;
+    margin-top: 36px;
+    flex-direction: row;
+}
+
+.comment_icon{
+    height: 46px;
+    width: 59px;
+}
+
+.comment_text{
+    display: flex;
+    margin-left: 19px;
+    flex-direction: column;
+}
+
+.comment_text_name {
+    color: #222222;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.comment_text_desgination {
+    color: #838694;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 8px;
+}
